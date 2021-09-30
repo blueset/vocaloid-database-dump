@@ -9,7 +9,7 @@ Dumpd from [Database Dump page](https://vocaloid.fandom.com/wiki/Special:Statist
 > Community content is available under CC-BY-SA unless otherwise noted.
 
 ## 初音ミク Wiki (atwiki) article dump
-Dumped articles from [初音ミク Wiki](https://w.atwiki.jp/hmiku/) using [atwiki-python](https://github.com/kmaehashi/atwiki-python) on 2021-09-04.
+Dumped articles from [初音ミク Wiki](https://w.atwiki.jp/hmiku/) on 2021-09-28.
 
 ## VocaDB database dump
-Database dump of [VocaDB](https://vocadb.net) retrieved from [Vocaloid.eu](http://vocaloid.eu/vocadb/dump.zip) on 2021-09-05.
+Database dump of [VocaDB](https://vocadb.net) retrieved from [Vocaloid.eu](http://vocaloid.eu/vocadb/dump.zip), dumped on 2021-09-28.
